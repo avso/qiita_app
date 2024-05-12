@@ -6,5 +6,5 @@ Qiitaの投稿を見るだけのスマホアプリ
 
 GitHubで管理していなかったので追加
 
-Riverpodとかretrofitとか使ってます
+Riverpodとかretrofitを使用
 
